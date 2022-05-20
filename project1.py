@@ -1,6 +1,3 @@
-from operator import mod
-
-
 for num in range(1, 101):
     string = ''
 
